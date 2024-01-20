@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+# Fitness Trainer Appointment Scheduler
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+The Fitness Trainer Appointment Scheduler is a web application designed for fitness trainers to manage their client appointments efficiently. It provides features for adding, editing, removing appointments, adding new clients, editing existing client information and deleting existing client, as well as a calendar view for better visualization.
 
-## Available Scripts
+## Technologies Used
+- React
+- React Router
+- HTML/CSS
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+### Prerequisites
+- Node.js installed
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Installation
+1. Clone the repository:
+   git clone https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler.git
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Navigate to the project directory:    
+   cd fitness-trainer-appointment-scheduler
+3. Install dependencies:
+   npm install
 
-### `npm test`
+## How to Run
+To run the project locally, use the following command:
+   npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Visit http://localhost:3000 in your browser to access the application.
 
-### `npm run build`
+## Usage
+1. Add new clients and their appointments.
+   - Navigate to the "Add Appointment" section in the application.
+   - Fill in the required details for the new client, such as first name, last name, and location.
+   - Select or enter the date and time for the appointment.
+   - Click the "Add Appointment" button to save the new client and appointment.
+2. Edit client information and appointment details.
+   - Locate the client whose information or appointment you want to edit.
+   - Click on the "Edit" button next to the client's details.
+   - Modify the client's first name, last name, location, or appointment date and time.
+   - Save the changes by clicking the "Save" button.
+3. Remove clients or individual appointments.
+   - To remove a client, find the client in the list and click on the "Delete" button.
+   - Confirm the deletion when prompted.
+   - To remove an individual appointment, locate the appointment in the client's details and click on the "Delete" button.
+   - Confirm the removal when prompted.
+4. View a visual calendar of upcoming appointments.
+   - Navigate to the "Calendar" section in the application.
+   - The calendar displays dates and time slots, organized by upcoming appointments.
+   - Easily visualize the schedule for each day, making it convenient to manage appointments.
+   
+## Calendar Feature
+The Calendar feature allows trainers to:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Visualize appointments organized by date and time slots.
+- Each appointment entry on the calender displays name and appointment time for easy reference.
+- Navigate through a grid displaying dates and time slots.
+- Easily understand the schedule for each day.
+- To access the Calendar, click the "Show Calendar" button on the home page.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Homepage
 
-### `npm run eject`
+<img width="952" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/4fd4135a-dd91-4c25-9a53-916b7957631e">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Upcoming Appointments
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="943" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/c5179d90-8d21-45f7-b974-72349a4b04c7">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Add Appointment
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img width="943" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/79e76b81-e977-4677-9bb9-4926eafc89ff">
+<img width="941" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/91a157f7-7fbc-4aa8-acff-a56a2b56c8a3">
+<img width="951" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/aa403977-9e93-43fd-9e6e-46727a431d5e">
 
-## Learn More
+### Edit Client information
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img width="937" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/4430bfa7-8a16-4222-8b51-ebb87e26c0d1">
+<img width="945" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/8f6549e5-ba78-415d-b655-0561edeeb643">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ ### Edit Appointment
+ 
+<img width="945" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/0d171313-8a4d-4b82-bf20-914bc1b0cf53">
+<img width="942" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/f6a24a00-01b0-4050-a140-77ba9d3b52e4">
 
-### Code Splitting
+### Delete Appointment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<img width="938" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/8e358ac3-19d7-41e7-aba3-96eb077327be">
+<img width="935" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/d8520701-f334-4d7b-b3b7-880048cf4e86">
 
-### Analyzing the Bundle Size
+### Delete client
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img width="934" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/6a504872-1bf8-4ecf-a359-43653de0c5a0">
+<img width="951" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/37406891-fb25-492c-9c2d-24ad257020a3">
 
-### Making a Progressive Web App
+### Calender View
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img width="935" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/25d1bd02-5292-4d65-8d74-ce7e81fe327f">
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

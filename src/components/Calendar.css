@@ -1,0 +1,41 @@
+/* src/components/Calendar.css */
+
+.calendar-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr); /* Adjust the number of columns */
+    gap: 10px;
+  }
+  
+  .calendar-header {
+    grid-column: span 8; /* Span across all columns */
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .day-label,
+  .time-slot,
+  .calendar-cell {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .time-label {
+    font-weight: bold;
+  }
+  
+  .appointment-info {
+    background-color: #3498db;
+    color: #fff;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 3px;
+  }
+  
+  /* Add more styling based on your preferences */
+  

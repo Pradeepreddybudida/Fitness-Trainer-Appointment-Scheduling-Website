@@ -1,0 +1,42 @@
+/* src/components/AppointmentForm.css */
+.appointment-form {
+    max-width: 100%;
+    margin-left: 50px;
+    margin-right: 150px;
+
+    margin-bottom: 50px;
+  }
+  
+  .form-grid {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+  }
+  
+  .row input {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .row label {
+    width: 100%;
+  }
+  button {
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    margin-right: 10px;
+    background-color: #007bff;
+    color: #ffff;
+    border: none;
+    cursor: pointer;
+  }
