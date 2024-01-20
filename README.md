@@ -62,40 +62,47 @@ The Calendar feature allows trainers to:
 
 ### Homepage
 
-<img width="952" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/4fd4135a-dd91-4c25-9a53-916b7957631e">
+<img width="945" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/574021e0-e250-4095-bc99-45f7c23e47f7">
+
 
 ### Upcoming Appointments
+<img width="940" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/6f237e57-7d17-4050-af81-318644194ddd">
 
-<img width="943" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/c5179d90-8d21-45f7-b974-72349a4b04c7">
 
 ### Add Appointment
 
-<img width="943" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/79e76b81-e977-4677-9bb9-4926eafc89ff">
-<img width="941" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/91a157f7-7fbc-4aa8-acff-a56a2b56c8a3">
-<img width="951" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/aa403977-9e93-43fd-9e6e-46727a431d5e">
+<img width="940" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/1d852545-ba84-40b3-99d1-a4651b37d5b8">
+<img width="942" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/afad290c-247a-4919-8945-a388f34651dc">
+<img width="944" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/1e52eccd-bb22-41e4-8548-ef384852dce9">
+
+
+
 
 ### Edit Client information
+<img width="942" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/6bcbc8a7-0ff1-4dbb-9412-49883b4be608">
+<img width="944" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/47371a7b-7edc-48f8-bd17-20c1cc87bffd">
 
-<img width="937" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/4430bfa7-8a16-4222-8b51-ebb87e26c0d1">
-<img width="945" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/8f6549e5-ba78-415d-b655-0561edeeb643">
 
  ### Edit Appointment
- 
-<img width="945" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/0d171313-8a4d-4b82-bf20-914bc1b0cf53">
-<img width="942" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/f6a24a00-01b0-4050-a140-77ba9d3b52e4">
+<img width="944" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/92314752-8f38-4ccc-930b-a5c7999676b8">
+<img width="941" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/4749f2eb-f8c7-4eb2-8ad8-daa3a5c88ee1">
+
+
 
 ### Delete Appointment
 
-<img width="938" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/8e358ac3-19d7-41e7-aba3-96eb077327be">
-<img width="935" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/d8520701-f334-4d7b-b3b7-880048cf4e86">
+<img width="940" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/32e8fd05-f13b-4421-98d2-a9faf28bc25d">
+<img width="942" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/bdecd6dd-c6c0-421c-9d3d-cfebd4b86d51">
+
+
 
 ### Delete client
 
-<img width="934" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/6a504872-1bf8-4ecf-a359-43653de0c5a0">
-<img width="951" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/37406891-fb25-492c-9c2d-24ad257020a3">
+<img width="934" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/86e1de73-c542-40fa-86f1-0373549cd718">
+<img width="947" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/3d91c6de-0a1b-4d93-88c3-047cbfcbfdaa">
+
+
 
 ### Calender View
 
-<img width="935" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduler/assets/137590716/25d1bd02-5292-4d65-8d74-ce7e81fe327f">
-
-
+<img width="957" alt="image" src="https://github.com/Pradeepreddybudida/Fitness-Trainer-Appointment-Scheduling-Website/assets/137590716/a81fae57-59e5-4237-921b-2755dba39984">
